@@ -1,0 +1,1 @@
+C:\Users\user\IdeaProjects\UmbrellaTDDTest\build\classes\kotlin\main\IWeather.class;C:\Users\user\IdeaProjects\UmbrellaTDDTest\build\classes\kotlin\main\Umbrella.class
